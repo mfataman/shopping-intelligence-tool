@@ -1,0 +1,8 @@
+Flask
+MongoDB
+beautifulsoup4
+selenium
+scrapy
+requests
+python-dotenv
+pytest
